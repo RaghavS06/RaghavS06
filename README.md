@@ -1,4 +1,4 @@
-## Hi there 👋 , I'm Raghav
+## Hi there 👋 , I'm Raghav!
 - 🎓 I’m currently studying Electrical Engineering @ **UIUC** 
 - 🌱 I recently built a program that can help you determine if news headlines are true or false, check it out [here](https://github.com/RaghavS06/Truth_Trackr)!
 - 🤖 I'm currently working on a self-driving RC car with Raspberry Pi, LiDAR, and real-time control systems. Coming soon... 
