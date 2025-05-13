@@ -1,9 +1,9 @@
-# Hi there 👋 , I'm Raghav!
-- 🎓 I’m currently studying  Engineering @ **$${\color{darkorange}UIUC}$$**
-- 🌱 I recently built a program that can help you determine if news headlines are true or false, check it out [here](https://github.com/RaghavS06/Truth_Trackr)!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=E19B1F&center=true&vCenter=true&width=1000&height=100&lines=Hi!+My+name+is+Raghav+%F0%9F%91%8B;I'm+an+Engineering+Student+%40+UIUC;Check+Out+My+Projects+Below+%E2%AC%87%EF%B8%8F)](https://git.io/typing-svg)
+
+- 🚗 Just finished a project where I built an **Autonomous RC Car!!** I learned about control systems, data processing, and electronic hardware work. Check out the [repo](https://github.com/RaghavS06/autonomous-rc-car) for more info!
 
 ## Latest Project...
-- 🚗 Just finished a project where I built an **Autonomous RC Car!!** I learned about control systems, data processing, and electronic hardware work. Check out the [repo](https://github.com/RaghavS06/autonomous-rc-car) for more info!
+- ⚛ **QUANTUM CIRCUIT SIMULATION** ⚛ I've recently been interested in learning about quantum mechanics and I thought building this app would be a fun way to understand the fundamental math and concepts behind quantum systems! The app is fully interactive for you to use, and more info and the code is available [here](https://github.com/RaghavS06/interactive-quantum-simulator)!
 <!--
 **RaghavS06/RaghavS06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
