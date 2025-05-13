@@ -1,6 +1,8 @@
-## Hi there 👋 , I'm Raghav!
+# Hi there 👋 , I'm Raghav!
 - 🎓 I’m currently studying  Engineering @ **UIUC** 
 - 🌱 I recently built a program that can help you determine if news headlines are true or false, check it out [here](https://github.com/RaghavS06/Truth_Trackr)!
+
+## Latest Project...
 - 🚗 Just finished a project where I built an **Autonomous RC Car!!** I learned about control systems, data processing, and electronic hardware work. Check out the [repo](https://github.com/RaghavS06/autonomous-rc-car) for more info!
 <!--
 **RaghavS06/RaghavS06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
