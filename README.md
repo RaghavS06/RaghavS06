@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Raghav!
-- 🎓 I’m currently studying  Engineering @ **UIUC** 
+- 🎓 I’m currently studying  Engineering @ **$${\color{darkorange}UIUC}$$**
 - 🌱 I recently built a program that can help you determine if news headlines are true or false, check it out [here](https://github.com/RaghavS06/Truth_Trackr)!
 
 ## Latest Project...
