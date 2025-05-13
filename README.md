@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=E19B1F&center=true&vCenter=true&width=1000&height=100&lines=Hi!+My+name+is+Raghav+%F0%9F%91%8B;I'm+an+Engineering+Student+%40+UIUC;Check+Out+My+Projects+Below+%E2%AC%87%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=E19B1F&center=true&vCenter=true&width=1000&height=100&lines=Hi!+My+name+is+Raghav+%F0%9F%91%8B;I'm+an+Engineering+Student+%40+UIUC;Check+Out+My+Projects+Below+%E2%AC%87%EF%B8%8F)](https://git.io/typing-svg)
 
 - 🚗 Just finished a project where I built an **Autonomous RC Car!!** I learned about control systems, data processing, and electronic hardware work. Check out the [repo](https://github.com/RaghavS06/autonomous-rc-car) for more info!
 
