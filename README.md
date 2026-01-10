@@ -3,7 +3,7 @@
 🚗 Just finished a project where I built an **Autonomous RC Car!!** I learned about control systems, data processing, and electronic hardware work. Check out the [repo](https://github.com/RaghavS06/autonomous-rc-car) for more info!
 
 ## Latest Project...
-⚛ **QUANTUM CIRCUIT SIMULATION** ⚛ I've recently been interested in learning about quantum mechanics and I thought building this app would be a fun way to understand the fundamental math and concepts behind quantum systems! The app is fully interactive for you to use, and more info and the code is available [here](https://github.com/RaghavS06/interactive-quantum-simulator)!
+⚛ **6-BIT FPGA QUANTUM COMPUTING SIMULATOR** ⚛ I've recently been interested in learning about FGPAs and HDL & quantum mechanics , so I built this platform on my Artix Cmod-A7 FPAG Dev board to explore both areas! If you want to check out my SystemVerilog Code or pictures of the outputs, you can [here](https://github.com/RaghavS06/interactive-quantum-simulator)!
 <!--
 **RaghavS06/RaghavS06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
