@@ -17,9 +17,6 @@ I designed a **custom 4-layer Artix-7 PCB** and implemented a **10 Gbps market d
 
 Check out the [repo](https://github.com/RaghavS06/hft_fpga_engine) for RTL, testbench, XDC constraints, and full documentation.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF5F05&height=100&section=footer" alt="footer"/>
-
-
 ## 📂 Other Projects
 
 ### 🔬 6-Bit FPGA Quantum Computing Simulator
@@ -29,6 +26,7 @@ Check out the [repo](https://github.com/RaghavS06/FPGA-Quantum-Computer) for Sys
 ### 🚗 Autonomous RC Car
 Built a fully autonomous RC car with control systems, real-time sensor data processing, and embedded hardware integration.
 Check out the [repo](https://github.com/RaghavS06/autonomous-rc-car) for more info.
+
 <!--
 **RaghavS06/RaghavS06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -43,3 +41,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF5F05&height=100&section=footer" alt="footer"/>
