@@ -11,10 +11,21 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FF5F05&center=true&vCenter=true&width=1000&height=100&lines=Hi!+My+name+is+Raghav+%F0%9F%91%8B;I'm+an+Engineering+Student+%40+UIUC;Check+Out+My+Projects+Below+%E2%AC%87%EF%B8%8F)](https://git.io/typing-svg)
 
-🚗 Just finished a project where I built an **Autonomous RC Car!!** I learned about control systems, data processing, and electronic hardware work. Check out the [repo](https://github.com/RaghavS06/autonomous-rc-car) for more info!
+## 🔥 Latest Project
 
-## Latest Project...
-⚛ **6-BIT FPGA QUANTUM COMPUTING SIMULATOR** ⚛ I've recently been interested in learning about FGPAs and HDL & quantum mechanics , so I built this platform on my Artix Cmod-A7 FPAG Dev board to explore both areas! If you want to check out my SystemVerilog Code or pictures of the outputs, you can [here](https://github.com/RaghavS06/FPGA-Quantum-Computer)!
+### ⚡ HFT FPGA Trading Engine
+I designed a **custom 4-layer Artix-7 PCB** and implemented a **10 Gbps market data parser** in SystemVerilog targeting sub-150ns tick-to-trade latency. The full signal chain runs from the SFP+ physical layer through a Xilinx PCS/PMA IP core and 10G Ethernet MAC down to a custom 8-state FSM that parses Ethernet/IPv4/UDP headers and extracts ITCH-inspired trading payload — entirely in silicon, no CPU involved.
+
+**Highlights:**
+- Custom PCB designed in Altium: BGA escape routing, 100Ω impedance-controlled SFP+ traces, eFuse protection, QSPI flash, 156.25 MHz LVDS oscillator
+- Packet parser FSM in SystemVerilog: validates full Eth/IP/UDP header stack, fires `signal_trigger` with extracted price in deterministic clock cycles
+- Clock Domain Crossing architecture: two-stage synchronizers with ASYNC_REG placement, async-assert synchronous-deassert reset pattern
+- Self-checking testbench: 10 test cases covering happy path, all DROP conditions, sequence gap detection, and back-to-back packet parsing
+- Full PCS/PMA/MAC stack: Xilinx GTX transceiver → XGMII → eth_mac_10g → AXI-Stream → parser
+
+Check out the [repo](https://github.com/RaghavS06/hft-fpga-engine) for RTL, testbench, XDC constraints, and full documentation.
+
+---
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF5F05&height=100&section=footer" alt="footer"/>
 
